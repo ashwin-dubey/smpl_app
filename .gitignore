@@ -1,0 +1,9 @@
+.DS_Store
+.byebug_history
+tmp
+logs
+log
+.ruby-version
+Gemfile.lock
+*bak.rb
+log/*.log
